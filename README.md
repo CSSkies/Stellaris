@@ -1,4 +1,6 @@
 # Stellaris Mods
-Here you can find the current zip file needed to play our multiplayer games. 
+Here you can find the current zip files needed to play our multiplayer games. 
 
-You can find the modlist here: https://steamcommunity.com/sharedfiles/filedetails/?id=2429744558
+You can find the modlists here: 
+Multiplayer 1: https://steamcommunity.com/sharedfiles/filedetails/?id=2429744558
+Multiplayer 2: https://steamcommunity.com/sharedfiles/filedetails/?id=2889548649
